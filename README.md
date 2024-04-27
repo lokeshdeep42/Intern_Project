@@ -1,6 +1,5 @@
 Unearthing the Environmental Impact of Human Activity: A Global CO2 Emission Analysis
 
-The link can be accessed at: https://smartintenz-project.netlify.app/
 
 Description:
 
